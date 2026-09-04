@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hydroelectric Generation Monitoring System (HGMS)
 A full industrial-style monitoring and control web application for hydroelectric
 power stations, built with **PHP (vanilla, PDO)** and **PostgreSQL**, designed
@@ -346,3 +347,7 @@ operations tool. Adapt freely for your organization's real hydro plant
 requirements — review all thresholds (`max_safe_water_level_m`, pressure/
 vibration ceilings, etc.) with your actual engineering specifications before
 relying on it for real safety-critical decisions.
+=======
+# Hydro_Monitor-
+Industrial-style hydroelectric plant monitoring &amp; control system — PHP + PostgreSQL admin dashboard for water/flood detection, weather analysis, turbine telemetry, power generation tracking, risk scoring, and automated alerting.
+>>>>>>> 1ce25a80215f64bcb8b7c7f8b25ed6235208ef8f
