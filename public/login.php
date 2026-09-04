@@ -54,8 +54,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
       <button type="submit" class="btn btn-primary" style="width:100%;">Sign In</button>
     </form>
     <p style="text-align:center;color:var(--text-dim);font-size:11.5px;margin-top:18px;">
-      Default seed login: <strong>admin</strong> / <strong>Admin@123</strong><br>
-      (Regenerate this hash before production use — see README.)
+    
     </p>
   </div>
 </div>
